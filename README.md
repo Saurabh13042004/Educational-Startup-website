@@ -22,7 +22,7 @@
 
 ## Overview
 
-### About tindog
+### About Learning
 
 A home page website named Learning provides details for thier startup with thier plans and pricing. 
 It is a fully responsive website which is built using "Bootstrap" and "CSS Grid".
