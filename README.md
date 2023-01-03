@@ -37,8 +37,8 @@ It is a fully responsive website which is built using "Bootstrap" and "CSS Grid"
 
 
 - Live Site URL: [Github Pages](https://saurabh13042004.github.io/Educational-Startup-Website/)
-- Free Learning Mockups : [Free Learning Mockups](https://www.freecodecamp.org/news/learn-bootstrap-4-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/)
-- Learning Design Link : [Learning Design](https://www.figma.com/file/1Q2J2Z1Z3Z4Z4Z4Z4Z4Z4Z/Learning-Design?node-id=0%3A1)
+- Free Learning Mockups : [Free Learning Mockups](https://drive.google.com/drive/folders/1o3Fl7EeMjH7R4972MrtDvYAzoRodpnI5?usp=sharing)
+- Learning Design Link : [Learning Design](https://dribbble.com/shots/16229210-E-learninng-platform-web-landing-page?utm_source=Clipboard_Shot&utm_campaign=suhayelahmednasim&utm_content=E-learninng%20platform%20web%20landing%20page&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=suhayelahmednasim&utm_content=E-learninng%20platform%20web%20landing%20page&utm_medium=Social_Share)
 
 ## My process
 
@@ -97,7 +97,7 @@ I want to learn more about "CSS Grid" and "Bootstrap" and also want to learn mor
 ## Acknowledgments
 
 
-I would like to thanks Dribble for providing me the design of the website what a great design it was. 
+I would like to thanks Dribble for providing me the design of the website what a great design it was special thanks to Nasim who made this design. 
 I know there are many things that I can improve in this project , but I am happy with the result. If you have any improvements in code feel free to give pull request.
 
 Thanks for reading this far, if you have any suggestions or feedback, please let me know in the comments below. I would love to hear from you.
